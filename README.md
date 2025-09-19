@@ -24,4 +24,5 @@ Whether you’re a **budding developer**, a **seasoned security pro**, or someon
 # Project Showcase
 
 ## Login/Register Pages
-![OmniSecura_login_showcase-ezgif com-crop](https://github.com/user-attachments/assets/ccb20628-78e4-4a18-a5b5-225f943fe028)
+https://github.com/user-attachments/assets/9a3c705d-592c-4755-89a9-f6da9076cf82
+
