@@ -1,25 +1,14 @@
 # 🛡️ About Project
 
-## 🎯 Project Goals
-- Build practical cybersecurity tools that deliver real value to the community.  
-- Share progress publicly to strengthen portfolios for future opportunities.  
-- Explore projects ranging from quick hacks to full-scale systems.  
+Hi, my name is Bartosz Malujda and this is my cybersecurity project :). 
+Recently i grown fond of secure coding and decided to make something to polish my skills in this direction, that's how the idea came upon me.
 
-## 🚀 Learning Mission
-- Strengthen both backend and frontend skills to grow into **full-stack developers with a security mindset**.  
-- Gain hands-on experience with **secure coding practices** and **application hardening**.  
-
-## 🌐 Beyond Code
-This project is not just about coding—it’s a platform to showcase expertise across cybersecurity domains, including:  
-
-- 🛡️ **Cybersecurity Engineering**  
-- 🕵️ **Penetration Testing**  
-- 📊 **Security Analysis**  
-- 🔻 **Red Team Operations**  
-- ...and more!  
-
-## 🤝 Join the Journey
-Whether you’re a **budding developer**, a **seasoned security pro**, or someone just **curious about the field**—this project is about **collaboration, growth, and impact**.  
+Welcome to OmniSecura Your personal cybersecurity hub where cutting-edge security meets innovation. Explore tools, tutorials, and secure-by-design solutions.
+You will be able to find some tips and tricks i found during my 1.5 year journey in cybersecurity and 3 year journey as an IT student. 
+The goal is to showcase my skils. projects and knowleadge while also let other people post their stuff for showcase.
+In not so long period of time i hope to put it up so people can make and customize their own showcase portfolio like pages on my website. 
+They wil be able to drag and drop a couple of prepared tiles to make it easy for customization :).
+You can also read more about me on the page, thanks for stepping by, have fun :).
 
 # Project Showcase
 
