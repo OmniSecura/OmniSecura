@@ -23,7 +23,5 @@ You can also read more about me on the page, thanks for stepping by, have fun :)
 https://github.com/user-attachments/assets/9a3c705d-592c-4755-89a9-f6da9076cf82
 
 ## Landing Page
-https://github.com/user-attachments/assets/6d13597f-64d4-40e2-b1fb-10447c50eb76
-
-
+https://github.com/user-attachments/assets/a4458e67-bb5f-4e80-a673-37b3674b81d6
 
