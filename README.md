@@ -10,6 +10,13 @@ In not so long period of time i hope to put it up so people can make and customi
 They wil be able to drag and drop a couple of prepared tiles to make it easy for customization :).
 You can also read more about me on the page, thanks for stepping by, have fun :).
 
+# Available Languages
+- Polish
+- English
+- French
+- German
+- more to come
+
 # Project Showcase
 
 ## Login/Register Pages
