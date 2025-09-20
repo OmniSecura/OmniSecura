@@ -22,3 +22,8 @@ You can also read more about me on the page, thanks for stepping by, have fun :)
 ## Login/Register Pages
 https://github.com/user-attachments/assets/9a3c705d-592c-4755-89a9-f6da9076cf82
 
+## Landing Page
+https://github.com/user-attachments/assets/6d13597f-64d4-40e2-b1fb-10447c50eb76
+
+
+
