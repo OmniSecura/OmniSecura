@@ -44,8 +44,22 @@ Network traffic analyzer and threat detection tool focused on anomaly detection 
 - Attack pattern identification
 - Modular detection engine
 
-📸 Screenshot:  
-![FoxProbe](./images/foxprobe.png)
+📸 Screenshots:  
+<table align="center">
+  <tr>
+    <td><img src="./images/foxprobe1.png" width="420"/></td>
+    <td><img src="./images/foxprobe2.png" width="420"/></td>
+  </tr>
+  <tr>
+    <td><img src="./images/foxprobe3.png" width="420"/></td>
+    <td><img src="./images/foxprobe4.png" width="420"/></td>
+  </tr>
+  <tr>
+    <td><img src="./images/foxprobe5.png" width="420"/></td>
+    <td><img src="./images/foxprobe6.png" width="420"/></td>
+  </tr>
+</table>
+
 
 🔗 Repository:  
 https://github.com/YourUsername/foxprobe
