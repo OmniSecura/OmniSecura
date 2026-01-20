@@ -85,9 +85,8 @@ Network traffic analyzer and threat detection tool focused on anomaly detection 
 
 If you'd like to collaborate or discuss cybersecurity topics:
 
-- GitHub: https://github.com/YourUsername
-- LinkedIn: *(optional)*
-- Email: *(optional)*
+- 📧 Email: bartosz.malujda@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/bartosz-malujda-2a3079306/
 
 ---
 
