@@ -26,8 +26,9 @@ Smart fitness assistant combining computer vision and data analysis to support t
 - Nutrition and macro integration
 - Modular backend architecture
 
-📸 Screenshot:  
-![Pocket Coach]()
+Pocket Coach application showcase:
+
+➡️ [Download MP4 video](./PocketCoachShowcase.mp4)
 
 🔗 Repository:  
 [Pocket Coach Showcase](https://github.com/OmniSecura/Pocket-Coach-showcase)
