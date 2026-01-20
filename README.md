@@ -64,7 +64,7 @@ Network traffic analyzer and threat detection tool focused on anomaly detection 
 🔗 Repository:  
 [FoxProbe](https://github.com/OmniSecura/FoxProbe)
 
-🌐 Website: 
+🌐 Website:
 [FoxProbe website](https://omnisecura.github.io/FoxProbeWebsite/)
 
 ---
